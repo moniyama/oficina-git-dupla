@@ -1,4 +1,6 @@
-# oficina-git-dupla
+KARINE
+
+<!-- # oficina-git-dupla
 
 ## Fork
 
@@ -62,4 +64,4 @@ Segunda pessoa:
   ```bash
   git pull upstream master
   git push origin master
-  ```
+  ``` -->
