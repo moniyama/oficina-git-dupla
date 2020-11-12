@@ -3,3 +3,4 @@
 ##fork
 pessoa 1:
 -fazer fork do repositório da lab
+-fazer clone do repo
